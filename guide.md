@@ -357,3 +357,4 @@ Free Resources:
 - [Codecademy](http://www.codecademy.com/#!/exercises/0)
 - [Dive Into Python](http://www.diveintopython.net/)
 - [Real Python](http://www.realpython.com/)
+- [Scaler Topics](https://www.scaler.com/topics/python/)
